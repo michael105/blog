@@ -21,6 +21,9 @@ and back again.
 
 Has been a very impressive event.
 
-Going to put a few pictures here.
+Going to put some pictures here.
 
+However, I just realize I cannot create folders within the 
+mobile UI of GitHub. This is sort of. :/ 
 
+Guess I should mirror this repo at my mobile.
