@@ -3,6 +3,8 @@ Going to blog here.
 
 #### 2021/06/01
  blog
+
+
 Personal blog, connected with my websites
 
 I already wrote my other blogs in markup, 
@@ -13,4 +15,12 @@ with my other blogs.
 However finally it got summer here in Germany.
 So this is not at the top of my list.
 
-I'm planning going hiking.
+I'm planning to go hiking again instead.
+Last year I walked from Munich to the Karwendel,
+and back again.
+
+Has been a very impressive event.
+
+Going to put a few pictures here.
+
+
