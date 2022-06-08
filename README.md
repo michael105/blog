@@ -4,7 +4,7 @@
 
 The entries are stored as issues.
 Comments welcome. 
-Obviously, you'll need a GitHub account to comment.
+You need a GitHub account to comment.
 
 There's an overview. https://github.com/users/michael105/projects/2/views/1
 
